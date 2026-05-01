@@ -1,0 +1,268 @@
+{% extends 'RUser/Header.html' %}
+{% block userblock %}
+
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+    margin:0;
+    font-family:'Poppins',sans-serif;
+    background: radial-gradient(circle at top,#0a1a2f,#020b17);
+    color:white;
+}
+
+/* GRID BACKGROUND */
+body::before{
+    content:"";
+    position:fixed;
+    width:100%;
+    height:100%;
+    background-image:
+    linear-gradient(rgba(0,255,255,0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,255,255,0.05) 1px, transparent 1px);
+    background-size:40px 40px;
+    z-index:-1;
+}
+
+/* MAIN LAYOUT */
+.main-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:90vh;
+}
+
+/* GLASS CARD */
+.card{
+    width:900px;
+    padding:40px;
+    border-radius:20px;
+    background:rgba(10,20,40,0.85);
+    border:1px solid rgba(0,255,255,0.2);
+    box-shadow:0 0 30px rgba(0,255,255,0.1);
+}
+
+/* TITLE */
+.title{
+    font-family:'Orbitron',sans-serif;
+    font-size:28px;
+    text-align:center;
+    margin-bottom:35px;
+    color:#00eaff;
+}
+
+/* GRID FORM */
+.form-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    column-gap:35px;
+    row-gap:25px;
+}
+
+.form-group{
+    display:flex;
+    flex-direction:column;
+}
+
+label{
+    font-size:13px;
+    color:#9fb8d1;
+    margin-bottom:6px;
+}
+
+input{
+    width:100%;
+    padding:12px 14px;
+    border-radius:8px;
+    border:1px solid rgba(0,255,255,0.2);
+    background:#0b1d33;
+    color:white;
+}
+
+input:focus{
+    outline:none;
+    border:1px solid #00eaff;
+    box-shadow:0 0 8px #00eaff;
+}
+
+/* BUTTON */
+.predict-btn{
+    margin-top:35px;
+    width:100%;
+    padding:14px;
+    border:none;
+    border-radius:10px;
+    background:linear-gradient(90deg,#1e90ff,#7b2cff);
+    color:white;
+    font-size:16px;
+    font-family:'Orbitron';
+    cursor:pointer;
+}
+
+.predict-btn:hover{
+    transform:scale(1.02);
+}
+
+/* POPUP */
+.popup-overlay{
+display:flex;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,0.8);
+justify-content:center;
+align-items:center;
+z-index:9999;
+}
+
+.popup-box{
+background:#0b1d33;
+padding:40px;
+border-radius:15px;
+text-align:center;
+border:2px solid #00eaff;
+box-shadow:0 0 20px #00eaff;
+font-family:'Orbitron';
+width:420px;
+}
+
+.popup-box h2{
+color:white;
+margin-bottom:10px;
+}
+
+.popup-box h1{
+color:#00eaff;
+}
+
+.close-btn{
+margin-top:20px;
+padding:10px 20px;
+border:none;
+border-radius:6px;
+background:#00eaff;
+cursor:pointer;
+}
+
+</style>
+
+
+<div class="main-container">
+
+<div class="card">
+
+<div class="title">
+🚗 Used Car Price Prediction
+</div>
+
+<form method="POST">
+{% csrf_token %}
+
+<div class="form-grid">
+
+<div class="form-group">
+<label>RID</label>
+<input type="text" name="RID">
+</div>
+
+<div class="form-group">
+<label>Car Name</label>
+<input type="text" name="Car_Name">
+</div>
+
+<div class="form-group">
+<label>Location</label>
+<input type="text" name="Location">
+</div>
+
+<div class="form-group">
+<label>Car Year</label>
+<input type="text" name="Car_Year">
+</div>
+
+<div class="form-group">
+<label>Kilometers</label>
+<input type="text" name="kilometer">
+</div>
+
+<div class="form-group">
+<label>Fuel Type</label>
+<input type="text" name="Fuel_Type">
+</div>
+
+<div class="form-group">
+<label>Transmission</label>
+<input type="text" name="Transmission">
+</div>
+
+<div class="form-group">
+<label>Owner Type</label>
+<input type="text" name="Owner_Type">
+</div>
+
+<div class="form-group">
+<label>Mileage</label>
+<input type="text" name="Mileage">
+</div>
+
+<div class="form-group">
+<label>Engine</label>
+<input type="text" name="Engine">
+</div>
+
+<div class="form-group">
+<label>Power</label>
+<input type="text" name="Power">
+</div>
+
+<div class="form-group">
+<label>Seats</label>
+<input type="text" name="Seats">
+</div>
+
+</div>
+
+<input type="submit" value="Predict Price" class="predict-btn">
+
+</form>
+
+</div>
+
+</div>
+
+
+{% if objs %}
+
+<div id="predictionPopup" class="popup-overlay">
+
+<div class="popup-box">
+
+<h2>Your Predicted Car Price for</h2>
+
+<h2 style="color:#ffffff;">{{request.POST.Car_Name}}</h2>
+
+<h2>is</h2>
+
+<h1>₹ {{objs}}</h1>
+
+<button class="close-btn" onclick="closePopup()">OK</button>
+
+</div>
+
+</div>
+
+{% endif %}
+
+
+<script>
+
+function closePopup(){
+document.getElementById("predictionPopup").style.display="none";
+}
+
+</script>
+
+{% endblock %}
