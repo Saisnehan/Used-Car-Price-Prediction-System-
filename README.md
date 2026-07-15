@@ -7,7 +7,7 @@ This project focuses on predicting the price of used vehicles using Machine Lear
 The system analyzes key features such as:  
 
 Year of manufacture    
-Mileage   
+Mileage    
 Fuel type   
 Transmission 
 Engine capacity 
