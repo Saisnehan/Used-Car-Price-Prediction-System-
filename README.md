@@ -9,7 +9,7 @@ The system analyzes key features such as:
 Year of manufacture      
 Mileage     
 Fuel type       
-Transmission 
+Transmission  
 Engine capacity  
 Brand & model 
 
