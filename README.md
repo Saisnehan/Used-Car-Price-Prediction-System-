@@ -13,7 +13,7 @@ Transmission
 Engine capacity   
 Brand & model  
  
-It provides accurate and fair price predictions to help buyers and sellers make better decisions.
+It provides accurate and fair price predictions to help buyers and sellers make better decisions. 
 
 🎯 Objectives
 Predict used car prices using ML & ANN models
