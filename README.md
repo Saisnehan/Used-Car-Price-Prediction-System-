@@ -10,7 +10,7 @@ Year of manufacture
 Mileage      
 Fuel type        
 Transmission  
-Engine capacity  
+Engine capacity   
 Brand & model  
  
 It provides accurate and fair price predictions to help buyers and sellers make better decisions.
