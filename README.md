@@ -2,7 +2,7 @@
 Using ANN and Traditional Machine Learning Techniques
 📌 Overview 
 
-This project focuses on predicting the price of used vehicles using Machine Learning and Artificial Neural Networks (ANN).
+This project focuses on predicting the price of used vehicles using Machine Learning and Artificial Neural Networks (ANN). 
 
 The system analyzes key features such as:     
    
