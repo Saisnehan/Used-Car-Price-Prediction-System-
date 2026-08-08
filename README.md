@@ -42,7 +42,7 @@ Artificial Neural Networks (ANN)
 Compare accuracy and select best model
 🏗️ System Architecture
 User (Browser)
-     ↓
+     ↓   
 Django Web Server
      ↓
 Machine Learning Model
