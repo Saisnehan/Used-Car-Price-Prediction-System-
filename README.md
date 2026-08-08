@@ -62,7 +62,7 @@ Enter vehicle details
 Get predicted price
 View profile
 🧠 Technologies Used
-💻 Backend
+💻 Backend   
 Python
 Django
 📊 Machine Learning
