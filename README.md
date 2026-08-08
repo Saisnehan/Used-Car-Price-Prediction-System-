@@ -53,7 +53,7 @@ MySQL Database
 Login
 Train & test datasets
 View accuracy (charts)
-View prediction results
+View prediction results   
 Manage users
 Download datasets
 👤 Remote User
