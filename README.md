@@ -34,7 +34,7 @@ Manual estimation:
 💡 Proposed Solution
 Train models using historical vehicle data
 Use multiple algorithms:  
-Linear Regression
+Linear Regression   
 Support Vector Regression (SVR)
 K-Nearest Neighbors (KNN)
 Random Forest
