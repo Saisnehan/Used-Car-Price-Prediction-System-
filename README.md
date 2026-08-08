@@ -79,7 +79,7 @@ User registers and logs in
 Enters car details
 Data is processed
 ML model predicts price
-Result displayed to user
+Result displayed to user   
 📈 Results
 ANN and SVR provided better accuracy
 System successfully predicts realistic car prices
