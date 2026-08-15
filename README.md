@@ -32,7 +32,7 @@ Manual estimation:
 👉 This project solves it using automated ML-based prediction.
 
 💡 Proposed Solution
-Train models using historical vehicle data
+Train models using historical vehicle data   
 Use multiple algorithms:  
 Linear Regression   
 Support Vector Regression (SVR)
