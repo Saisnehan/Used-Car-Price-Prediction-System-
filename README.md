@@ -23,7 +23,7 @@ Build a user-friendly web-based system
 ❗ Problem Statement
 
 Used car pricing is complex due to multiple influencing factors.
-Manual estimation:
+Manual estimation:  
 
 ❌ Less accurate  
 ❌ Inconsistent
