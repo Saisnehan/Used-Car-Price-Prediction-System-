@@ -66,7 +66,7 @@ View profile
 Python
 Django
 📊 Machine Learning
-Scikit-learn
+Scikit-learn  
 ANN (Neural Networks)
 🌐 Frontend
 HTML
