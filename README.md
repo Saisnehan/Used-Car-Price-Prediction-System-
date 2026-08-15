@@ -19,7 +19,7 @@ It provides accurate and fair price predictions to help buyers and sellers make 
 Predict used car prices using ML & ANN models
 Compare performance of different algorithms
 Improve prediction accuracy through data preprocessing
-Build a user-friendly web-based system
+Build a user-friendly web-based system  
 ❗ Problem Statement
 
 Used car pricing is complex due to multiple influencing factors.
