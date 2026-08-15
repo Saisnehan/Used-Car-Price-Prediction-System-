@@ -52,7 +52,7 @@ MySQL Database
 👨‍💼 Service Provider (Admin)
 Login
 Train & test datasets
-View accuracy (charts)
+View accuracy (charts)  
 View prediction results   
 Manage users
 Download datasets
