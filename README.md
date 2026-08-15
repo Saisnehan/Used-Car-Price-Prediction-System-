@@ -37,7 +37,7 @@ Use multiple algorithms:
 Linear Regression   
 Support Vector Regression (SVR)
 K-Nearest Neighbors (KNN)
-Random Forest
+Random Forest  
 Artificial Neural Networks (ANN)
 Compare accuracy and select best model
 🏗️ System Architecture
