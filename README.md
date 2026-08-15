@@ -75,7 +75,7 @@ Bootstrap
 🗄️ Database
 MySQL
 🔄 Workflow
-User registers and logs in
+User registers and logs in  
 Enters car details
 Data is processed
 ML model predicts price
