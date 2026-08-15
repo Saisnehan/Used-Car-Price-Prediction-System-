@@ -95,7 +95,7 @@ Include accident & insurance history
 Deploy as mobile application
 Use advanced deep learning models
 📚 References
-Pudaruth, S. – Used Car Price Prediction using ML
+Pudaruth, S. – Used Car Price Prediction using ML  
 S. Das & A. Dey – Random Forest Accuracy Study
 Cortes & Vapnik – Support Vector Regression
 ANN-based prediction research papers
