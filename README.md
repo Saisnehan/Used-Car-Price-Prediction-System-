@@ -85,7 +85,7 @@ ANN and SVR provided better accuracy
 System successfully predicts realistic car prices
 Helps reduce pricing errors
 ✅ Advantages
-✔ High accuracy
+✔ High accuracy  
 ✔ Automated system
 ✔ Data-driven decisions
 ✔ Easy to use interface
