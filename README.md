@@ -60,7 +60,7 @@ Download datasets
 Register & Login
 Enter vehicle details
 Get predicted price
-View profile
+View profile  
 🧠 Technologies Used
 💻 Backend   
 Python
