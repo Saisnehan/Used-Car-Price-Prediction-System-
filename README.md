@@ -91,7 +91,7 @@ Helps reduce pricing errors
 ✔ Easy to use interface
 🚀 Future Enhancements
 Add real-time market data
-Include accident & insurance history
+Include accident & insurance history  
 Deploy as mobile application
 Use advanced deep learning models
 📚 References
