@@ -129,7 +129,7 @@ Real-time Price Prediction
 │ • Random Forest  │          │ • Datasets          │
 │ • ANN (TensorFlow│          │ • Model Metadata    │
 │   /Keras)        │          │                     │
-│                  │          │                     │
+│                  │          │                     │  
 │ (Scikit-learn)   │          │                     │
 └──────────────────┘          └─────────────────────┘
 ```
