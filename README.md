@@ -36,7 +36,7 @@ Used car pricing is inherently complex due to multiple influencing factors. Trad
 
 - 💰 Buyers overpay for vehicles
 - 🚗 Sellers undervalue their cars
-- 📊 Market inefficiencies due to information asymmetry
+- 📊 Market inefficiencies due to information asymmetry  
 - 😞 Both parties lack data-driven confidence in pricing
 
 ### Solution
