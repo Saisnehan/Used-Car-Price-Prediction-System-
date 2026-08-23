@@ -172,7 +172,7 @@ Public-facing interface for price predictions:
 | **Vehicle Entry** | Input vehicle details (7+ attributes) |
 | **Price Prediction** | Get instant price estimate |
 | **View Profile** | Manage user information |
-| **Prediction History** | Track past predictions |
+| **Prediction History** | Track past predictions |   
 | **Responsive UI** | Works on desktop and mobile |
 
 **Workflow:**
