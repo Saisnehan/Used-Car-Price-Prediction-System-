@@ -56,7 +56,7 @@ Implement an **automated ML-based prediction engine** that:
 2. **Maximize Accuracy**: Achieve 90%+ prediction accuracy through optimization
 3. **Feature Engineering**: Extract and engineer 7+ vehicle attributes  
 4. **Model Comparison**: Benchmark 5 different algorithms and identify best performer
-5. **Web Application**: Build user-friendly Django interface for end-users
+5. **Web Application**: Build user-friendly Django interface for end-users  
 6. **Role-Based System**: Implement admin panel for model training and data management
 7. **Database Integration**: Design normalized MySQL schema for scalable data storage      
 8. **Real-time Prediction**: Enable instant price predictions with low latency  
