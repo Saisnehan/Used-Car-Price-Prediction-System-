@@ -50,7 +50,7 @@ Implement an **automated ML-based prediction engine** that:
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives  
 
 1. **Develop ML Models**: Train and compare multiple algorithms for price prediction
 2. **Maximize Accuracy**: Achieve 90%+ prediction accuracy through optimization
