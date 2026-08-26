@@ -9,7 +9,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-lightblue) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple)
 
-ldm;d,;,;
 ---
 
 ## 🎯 Overview
