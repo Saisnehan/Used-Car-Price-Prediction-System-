@@ -39,7 +39,7 @@ Used car pricing is inherently complex due to multiple influencing factors. Trad
 - 😞 Both parties lack data-driven confidence in pricing
 
 ### Solution
-
+    
 Implement an **automated ML-based prediction engine** that:
 - ✅ Analyzes historical vehicle data    
 - ✅ Identifies price-determining factors  
