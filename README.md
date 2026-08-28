@@ -156,7 +156,7 @@ Dashboard for managing the ML system:
 - Train multiple models simultaneously
 - Compare algorithm performance
 - Monitor prediction accuracy metrics
-- Retrain models with new data
+- Retrain models with new data   
 
 ---
 
