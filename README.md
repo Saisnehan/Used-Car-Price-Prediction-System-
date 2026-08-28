@@ -158,7 +158,7 @@ Dashboard for managing the ML system:
 - Monitor prediction accuracy metrics
 - Retrain models with new data   
 
----
+---    
 
 ### 👤 **End User/Remote User Module**
 
