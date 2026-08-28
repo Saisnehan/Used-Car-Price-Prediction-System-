@@ -175,7 +175,7 @@ Public-facing interface for price predictions:
 | **Responsive UI** | Works on desktop and mobile |
 
 **Workflow:**
-1. Register or log in
+1. Register or log in   
 2. Enter vehicle specifications
 3. System processes data
 4. Receive predicted price
