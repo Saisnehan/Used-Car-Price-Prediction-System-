@@ -51,7 +51,7 @@ Implement an **automated ML-based prediction engine** that:
 
 ## 🎯 Objectives  
 
-1. **Develop ML Models**: Train and compare multiple algorithms for price prediction
+1. **Develop ML Models**: Train and compare multiple algorithms for price prediction mmlmwlm
 2. **Maximize Accuracy**: Achieve 90%+ prediction accuracy through optimization
 3. **Feature Engineering**: Extract and engineer 7+ vehicle attributes  
 4. **Model Comparison**: Benchmark 5 different algorithms and identify best performer
