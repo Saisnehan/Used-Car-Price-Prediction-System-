@@ -147,7 +147,7 @@ Dashboard for managing the ML system:
 | **Dataset Management** | Upload, view, and manage vehicle datasets |
 | **Model Training** | Train models on updated datasets |
 | **Test & Evaluate** | View model performance metrics |
-| **Accuracy Charts** | Visualize model comparison (accuracy, MAE, RMSE) |
+| **Accuracy Charts** | Visualize model comparison (accuracy, MAE, RMSE) |     
 | **Prediction Results** | Review system predictions and validation |
 | **User Management** | Create, update, delete user accounts |
 | **Download Data** | Export datasets and reports |
