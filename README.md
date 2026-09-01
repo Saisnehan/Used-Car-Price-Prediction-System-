@@ -24,7 +24,7 @@ Unlike manual estimation which is prone to errors, this automated system uses **
 ### The Challenge
 
 Used car pricing is inherently complex due to multiple influencing factors. Traditional manual estimation methods suffer from significant limitations:
-
+   
 - **❌ Inconsistency**: Different valuations for identical vehicles
 - **❌ Inaccuracy**: Based on intuition rather than data
 - **❌ Subjectivity**: Personal biases affect pricing decisions
