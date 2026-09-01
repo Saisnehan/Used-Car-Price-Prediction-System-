@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Django](https://img.shields.io/badge/Django-Web%20Framework-darkgreen)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
-![ANN](https://img.shields.io/badge/ANN-Neural%20Networks-red)             
+![ANN](https://img.shields.io/badge/ANN-Neural%20Networks-red)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-lightblue)       
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple)
     
