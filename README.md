@@ -11,7 +11,7 @@
     
 ---
 
-## 🎯 Overview  
+## 🎯 Overview
 
 This project develops an **intelligent used vehicle price prediction system** that leverages machine learning and artificial neural networks to provide accurate, data-driven price estimates. The system analyzes multiple vehicle characteristics and predicts fair market prices to help buyers and sellers make informed decisions.
     
