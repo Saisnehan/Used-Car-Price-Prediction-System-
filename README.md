@@ -66,7 +66,7 @@ Implement an **automated ML-based prediction engine** that:
 
 ### Multi-Algorithm Approach
   
-Train and evaluate **5 machine learning algorithms**:  
+Train and evaluate **5 machine learning algorithms**:
 
 | Algorithm | Strengths | Use Case |
 |-----------|-----------|----------|
@@ -152,7 +152,7 @@ Dashboard for managing the ML system:
 | **User Management** | Create, update, delete user accounts |
 | **Download Data** | Export datasets and reports |
 
-**Key Features:**    
+**Key Features:**
 - Train multiple models simultaneously
 - Compare algorithm performance
 - Monitor prediction accuracy metrics
