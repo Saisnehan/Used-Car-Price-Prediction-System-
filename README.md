@@ -198,7 +198,7 @@ Public-facing interface for price predictions:
   - Random Forest
 - **TensorFlow/Keras** - Artificial Neural Networks (ANN)
 - **Pandas** - Data manipulation and analysis
-- **NumPy** - Numerical computations
+- **NumPy** - Numerical computations  
 - **Matplotlib/Seaborn** - Data visualization
 
 ### Frontend
