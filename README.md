@@ -267,7 +267,7 @@ Artificial Neural Net:    ✓✓ 92% accuracy
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started   
 
 ### Prerequisites
 
