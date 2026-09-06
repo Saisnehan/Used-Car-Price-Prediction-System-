@@ -480,7 +480,7 @@ Compare on test data (20%):
   - AWS/Azure deployment
   - Containerization (Docker)
   - CI/CD pipeline
-  - Scalable infrastructure
+  - Scalable infrastructure  
 
 ---
 
