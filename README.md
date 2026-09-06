@@ -192,7 +192,7 @@ Public-facing interface for price predictions:
 
 ### Machine Learning
 - **Scikit-learn** - ML algorithms and utilities
-  - Linear Regression
+  - Linear Regression  
   - Support Vector Regression (SVR)
   - K-Nearest Neighbors (KNN)
   - Random Forest
