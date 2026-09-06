@@ -446,7 +446,7 @@ Compare on test data (20%):
   
 - 🔄 **Real-time Market Data Integration**
   - Connect to live vehicle market APIs
-  - Auto-update model with current pricing trends
+  - Auto-update model with current pricing trends  
 
 - 📋 **Extended Vehicle History**
   - Accident history impact
