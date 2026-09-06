@@ -462,7 +462,7 @@ Compare on test data (20%):
 - 🤖 **Advanced ML Models**
   - Ensemble methods (Gradient Boosting, XGBoost)
   - LSTM for time-series trend analysis
-  - Computer Vision for vehicle image analysis
+  - Computer Vision for vehicle image analysis  
 
 - 📊 **Advanced Analytics**
   - Market trend visualization
