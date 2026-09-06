@@ -312,7 +312,7 @@ vehicle-price-prediction/
 │   │   └── admin_panel.html
 │   ├── static/
 │   │   ├── css/
-│   │   │   └── style.css  
+│   │   │   └── style.css    
 │   │   ├── js/
 │   │   │   └── script.js
 │   │   └── images/
