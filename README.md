@@ -460,7 +460,7 @@ Compare on test data (20%):
   - Push notifications for market updates
 
 - 🤖 **Advanced ML Models**
-  - Ensemble methods (Gradient Boosting, XGBoost)
+  - Ensemble methods (Gradient Boosting, XGBoost)  
   - LSTM for time-series trend analysis
   - Computer Vision for vehicle image analysis  
 
