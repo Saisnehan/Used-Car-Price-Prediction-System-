@@ -538,7 +538,7 @@ Data Science | Machine Learning | Full-Stack Web Development | Python | Django |
 
 - 🔗 **LinkedIn**: [linkedin.com/in/k-saisnehan](https://linkedin.com/in/k-saisnehan)
 - 📧 **Email**: saisnehank@gmail.com
-- 🐙 **GitHub**: [github.com/Saisnehan](https://github.com/Saisnehan)
+- 🐙 **GitHub**: [github.com/Saisnehan](https://github.com/Saisnehan)  
 
 ---
 
