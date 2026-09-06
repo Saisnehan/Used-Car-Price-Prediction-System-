@@ -428,7 +428,7 @@ Compare on test data (20%):
 
 ## ✅ Advantages
 
-✔ **High Accuracy** - 92% prediction accuracy reduces errors
+✔ **High Accuracy** - 92% prediction accuracy reduces errors  
 ✔ **Data-Driven** - Removes human bias and subjectivity
 ✔ **User-Friendly** - Simple interface for entering vehicle details
 ✔ **Automated** - Instant predictions without manual intervention
