@@ -545,7 +545,7 @@ Data Science | Machine Learning | Full-Stack Web Development | Python | Django |
 ## 🙏 Acknowledgments
 
 - Open-source ML community (Scikit-learn, TensorFlow)  
-- Django community for excellent documentation
+- Django community for excellent documentation  
 - Bootstrap for responsive UI framework
 - All contributors and testers   
 
