@@ -100,7 +100,7 @@ Real-time Price Prediction
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture  
 
 ```
 ┌─────────────────────────────────────────────────────────┐
