@@ -138,7 +138,7 @@ Real-time Price Prediction
 ## 🎛️ Project Modules
 
 ### 👨‍💼 **Admin/Service Provider Module**  
-
+  
 Dashboard for managing the ML system:
 
 | Feature | Description |
