@@ -44,7 +44,7 @@ Implement an **automated ML-based prediction engine** that:
 - ✅ Analyzes historical vehicle data       
 - ✅ Identifies price-determining factors    
 - ✅ Provides consistent, fair estimates
-- ✅ Reduces human bias and error
+- ✅ Reduces human bias and error   
 - ✅ Enables confident, informed decision-making
 
 ---
