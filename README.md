@@ -208,7 +208,7 @@ Public-facing interface for price predictions:
 - **JavaScript** - Client-side interactivity
 
 ### Database
-- **MySQL 8.0+** - Relational database
+- **MySQL 8.0+** - Relational database  
 - **SQLAlchemy** - ORM (optional)
 
 ### DevOps & Tools
