@@ -63,7 +63,7 @@ Implement an **automated ML-based prediction engine** that:
 ---
 
 ## 💡 Proposed Solution
-
+   
 ### Multi-Algorithm Approach
   
 Train and evaluate **5 machine learning algorithms**:
