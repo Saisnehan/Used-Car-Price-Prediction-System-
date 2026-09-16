@@ -45,7 +45,7 @@ Implement an **automated ML-based prediction engine** that:
 - ✅ Identifies price-determining factors      
 - ✅ Provides consistent, fair estimates  
 - ✅ Reduces human bias and error   
-- ✅ Enables confident, informed decision-making
+- ✅ Enables confident, informed decision-making    
 
 ---
 
