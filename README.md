@@ -71,7 +71,7 @@ Train and evaluate **5 machine learning algorithms**:
 | Algorithm | Strengths | Use Case |
 |-----------|-----------|----------|
 | **Linear Regression** | Fast, interpretable | Baseline comparison |
-| **Support Vector Regression (SVR)** | Handles non-linearity, robust to outliers | Improved accuracy |
+| **Support Vector Regression (SVR)** | Handles non-linearity, robust to outliers | Improved accuracy |   
 | **K-Nearest Neighbors (KNN)** | Instance-based, no assumptions | Local pattern capture |
 | **Random Forest** | Ensemble method, feature importance | High accuracy, stable |
 | **Artificial Neural Networks (ANN)** | Deep learning, complex patterns | Best accuracy (~90%+) |  
