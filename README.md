@@ -212,7 +212,7 @@ Public-facing interface for price predictions:
 - **SQLAlchemy** - ORM (optional)
 
 ### DevOps & Tools
-- **GitHub** - Version control and collaboration
+- **GitHub** - Version control and collaboration   
 - **Git** - Source code management
 - **Virtual Environment** - Dependency isolation
 - **Jupyter Notebook** - ML model experimentation
