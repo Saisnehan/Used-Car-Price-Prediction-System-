@@ -153,7 +153,7 @@ Dashboard for managing the ML system:
 | **Download Data** | Export datasets and reports |
 
 **Key Features:**
-- Train multiple models simultaneously
+- Train multiple models simultaneously   
 - Compare algorithm performance
 - Monitor prediction accuracy metrics
 - Retrain models with new data   
