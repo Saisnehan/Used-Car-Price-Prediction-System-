@@ -176,7 +176,7 @@ Public-facing interface for price predictions:
 
 **Workflow:**
 1. Register or log in   
-2. Enter vehicle specifications
+2. Enter vehicle specifications     
 3. System processes data    
 4. Receive predicted price
 5. View confidence score    
