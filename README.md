@@ -337,7 +337,7 @@ vehicle-price-prediction/
 │       ├── ann_model.h5
 │       └── scaler.pkl
 │
-├── notebooks/
+├── notebooks/    
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_data_preprocessing.ipynb
 │   ├── 03_feature_engineering.ipynb
