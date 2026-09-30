@@ -28,7 +28,7 @@ Used car pricing is inherently complex due to multiple influencing factors. Trad
 - **❌ Inconsistency**: Different valuations for identical vehicles
 - **❌ Inaccuracy**: Based on intuition rather than data
 - **❌ Subjectivity**: Personal biases affect pricing decisions
-- **❌ Time-consuming**: Manual evaluation is labor-intensive
+- **❌ Time-consuming**: Manual evaluation is labor-intensive   
 - **❌ Unfair pricing**: Buyers and sellers lack objective benchmarks   
    
 ### Impact
