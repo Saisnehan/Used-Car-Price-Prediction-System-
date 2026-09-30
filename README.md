@@ -272,7 +272,7 @@ Artificial Neural Net:    ✓✓ 92% accuracy
 ### Prerequisites
 
 Before running this project, ensure you have:
-
+     
 - **Python 3.8+** installed
 - **MySQL 8.0+** server running
 - **pip** package manager
