@@ -154,7 +154,7 @@ Dashboard for managing the ML system:
 
 **Key Features:**
 - Train multiple models simultaneously   
-- Compare algorithm performance
+- Compare algorithm performance    
 - Monitor prediction accuracy metrics
 - Retrain models with new data   
 
