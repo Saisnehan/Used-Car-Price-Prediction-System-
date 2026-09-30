@@ -187,7 +187,7 @@ Public-facing interface for price predictions:
 
 ### Backend & Framework
 - **Python 3.8+** - Core programming language
-- **Django** - Web framework (MVC architecture)
+- **Django** - Web framework (MVC architecture)     
 - **Django REST Framework** - API endpoints (optional)
 
 ### Machine Learning
